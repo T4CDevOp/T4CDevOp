@@ -30,6 +30,9 @@ The 4th Prophecy is a classic online multiplayer game and T4C seeks to revitaliz
 
 Embark on a journey to relive the magic of The 4th Prophecy!
 
+[T4C Next - Website](https://t4c.next.com/)
+[T4C Next - Bug Tracker](https://t4c.next.com/?page=bt)
+
 ---
 
 # La 4ème Prophétie Remasterisée
@@ -64,3 +67,6 @@ La 4ème Prophétie est un jeu multijoueur en ligne classique et T4C cherche à 
 3. **Participez aux Discussions sur nos Forums Communautaires.**
 
 Embarquez pour un voyage afin de revivre la magie de La 4ème Prophétie !
+
+[T4C Next - Site Internet](https://t4c.next.com/)
+[T4C Next - Bug Tracker](https://t4c.next.com/?page=bt)
