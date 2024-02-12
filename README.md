@@ -1,7 +1,7 @@
 # T4C - The 4th Prophecy Remastered
 
 <p align="center">
-  <img src="logo.png" alt="T4CDevOp" title="T4CDevOp">
+  <img src="t4c-next-logo-big.png" alt="T4CDevOp" title="T4CDevOp">
 </p>
 
 ## Full Description
@@ -35,7 +35,7 @@ Embark on a journey to relive the magic of The 4th Prophecy!
 # La 4ème Prophétie Remasterisée
 
 <p align="center">
-  <img src="logo.png" alt="T4CDevOp" title="T4CDevOp">
+  <img src="t4c-next-logo-big.png" alt="T4CDevOp" title="T4CDevOp">
 </p>
 
 ## Description Complète
