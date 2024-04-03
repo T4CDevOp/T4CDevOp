@@ -1,7 +1,7 @@
 # T4C - The 4th Prophecy Remastered
 
 <p align="center">
-  <img src="t4c-next-logo-big.png" alt="T4CDevOp" title="T4CDevOp">
+  <img src="t4c-dev-logo-big.png" alt="T4CDevOp" title="T4CDevOp">
 </p>
 
 ## Full Description
@@ -30,15 +30,15 @@ The 4th Prophecy is a classic online multiplayer game and T4C seeks to revitaliz
 
 Embark on a journey to relive the magic of The 4th Prophecy!
 
-[T4C Next - Website](https://t4c.next.com/)
-[T4C Next - Bug Tracker](https://t4c.next.com/?page=bt)
+[T4C Next - Website](https://dev.t4c.com/)
+[T4C Next - Bug Tracker](https://dev.t4c.com/?page=bt)
 
 ---
 
 # La 4ème Prophétie Remasterisée
 
 <p align="center">
-  <img src="t4c-next-logo-big.png" alt="T4CDevOp" title="T4CDevOp">
+  <img src="t4c-dev-logo-big.png" alt="T4CDevOp" title="T4CDevOp">
 </p>
 
 ## Description Complète
@@ -68,5 +68,5 @@ La 4ème Prophétie est un jeu multijoueur en ligne classique et T4C cherche à 
 
 Embarquez pour un voyage afin de revivre la magie de La 4ème Prophétie !
 
-[T4C Next - Site Internet](https://t4c.next.com/)
-[T4C Next - Bug Tracker](https://t4c.next.com/?page=bt)
+[T4C Next - Site Internet](https://dev.t4c.com/)
+[T4C Next - Bug Tracker](https://dev.t4c.com/?page=bt)
